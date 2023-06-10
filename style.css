@@ -76,6 +76,7 @@ button.white {
 body {
     width: 100%;
     background-color: #658864;
+    background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
 }
 
 #header {
@@ -84,8 +85,7 @@ body {
     justify-content: space-between;
     padding: 20px 80px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
-    background:
-        #658864;
+       background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
     z-index: 999;
     position: sticky;
     top: 0px;
